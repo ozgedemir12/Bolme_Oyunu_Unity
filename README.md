@@ -3,10 +3,14 @@ This game project, which I developed on the Unity platform, is a project that ca
 
 
 
-#Used Technologies
+# Used Technologies
 Unity , C# , DGTweening
 
-#Images from Project
+# Images from Project
 
-<img src="screenshots/Menu.png" alt="alt text" width="320" height="180">
+<img src="screenshots/Menu.png" alt="alt text" width="auto">
+
+<img src="screenshots/Game.png" alt="alt text" width="auto">
+
+<img src="screenshots/Finish.png" alt="alt text" width="auto">
 
